@@ -2,7 +2,7 @@
 💪🏻 I work as a freelance Front-end developer.<br>👀 While working with PHP, HTML/CSS, and MySQL, I am also learning React Native.<br>🥳 I am striving to create new projects.
 
 <div align="center">
-  <img height="200" src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog"  />
+  <img height="200" src="https://i.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.webp"  />
 </div>
 
 ## 🌐 Socials:
