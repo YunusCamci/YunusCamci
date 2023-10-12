@@ -2,7 +2,7 @@
 💪🏻 I work as a freelance Front-end developer.<br>👀 While working with PHP, HTML/CSS, and MySQL, I am also learning React Native.<br>🥳 I am striving to create new projects.
 
 
-[<img src='https://i.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.webp' alt='Programmer' height='40' color='white'>]
+<img src='https://i.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.webp' alt='Programmer' height='250' />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/Yunus__18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-camci/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yunuscamci) 
